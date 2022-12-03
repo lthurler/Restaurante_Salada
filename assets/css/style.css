@@ -684,6 +684,15 @@ textarea {
 }
 
 /*-------MEDIA QUERY------*/
+@media (max-width: 400px) {
+    .home__img {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+
+}
+
 @media (min-width: 576px) {
     .home__img {
         width: 80%;
